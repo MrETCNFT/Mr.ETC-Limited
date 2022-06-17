@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xB800fDc9c661dB8ab4950314Bd1461eE1872F81d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb800fdc9c661db8ab4950314bd1461ee1872f81d",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Net",
+    "SYMBOL": "RinkebyETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Mr.ETC Limited",
+  "SYMBOL": "MRETC",
+  "MAX_SUPPLY": 3500,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 300000,
+  "SHOW_BACKGROUND": true
+}
